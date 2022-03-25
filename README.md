@@ -1,2 +1,3 @@
 # Attachment_Model
-Role of security in attachment: a model of artificial agents in simulated social groups - Research Project of Master 2 research
+The role of security in attachment: a model and experiments in simulated social groups - Research Project of Master 2 research
+ 
